@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018101191873",
+    "project_id": "ocp-maps-41572",
+    "storage_bucket": "ocp-maps-41572.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018101191873:android:812f5f39dcb099a4e73040",
+        "android_client_info": {
+          "package_name": "com.example.ocp_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6AJWSbj326BlRvPwZ67ZyWWNBO2UC-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018101191873:android:65c2f87e1b6f3db0e73040",
+        "android_client_info": {
+          "package_name": "com.example.ocp_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6AJWSbj326BlRvPwZ67ZyWWNBO2UC-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
